@@ -1,7 +1,14 @@
 1 My thoughts about the course
+  - Course is great
 2 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+  - You can always find previous versions of the files.
 3 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+  - You need to have ability to choose wether you need commit or not.
 4 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+  - Git keeps all versions of all files.
 5 How can you use the commands git log and git diff to view the history of files?
+  - These commands allow you see history of previous commits and compare 2 different commits.
 6 How might using version control make you more confident to make changes that could break something?
+  - You can create several branches without breaking your main build.
 7 Now that you have your workspace set up, what do you want to try using Git for?
+  - To share these reflections.
